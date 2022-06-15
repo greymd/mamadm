@@ -7,7 +7,7 @@
 # インストール方法
 
 ```
-go get -u github.com/greymd/mamadm
+go install github.com/greymd/mamadm@latest
 ```
 
 # 使い方
